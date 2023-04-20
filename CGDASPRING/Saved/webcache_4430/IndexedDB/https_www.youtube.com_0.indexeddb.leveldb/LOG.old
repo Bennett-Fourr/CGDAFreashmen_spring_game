@@ -1,6 +1,0 @@
-2023/04/20-16:34:03.777 c88 Creating DB C:/Users/Freshmen 2023/desktop/Desktop/CGDAFreashmen_spring_game/CGDASPRING/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb since it was missing.
-2023/04/20-16:34:03.785 c88 Reusing MANIFEST C:/Users/Freshmen 2023/desktop/Desktop/CGDAFreashmen_spring_game/CGDASPRING/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/04/20-16:34:15.313 319c Level-0 table #5: started
-2023/04/20-16:34:15.316 319c Level-0 table #5: 8748 bytes OK
-2023/04/20-16:34:15.319 319c Delete type=0 #3
-2023/04/20-16:34:15.319 319c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

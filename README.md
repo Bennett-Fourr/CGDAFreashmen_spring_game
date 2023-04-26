@@ -1,1 +1,1 @@
-A basic spongbob based racing game
+A basic spongbob based racing game.
